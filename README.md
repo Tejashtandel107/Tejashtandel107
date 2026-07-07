@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tejas Tandel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## MERN Stack Developer | Full Stack Developer
+
+💻 Full Stack Developer with professional experience in **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, PHP, and Laravel**.
+
+🚀 Passionate about building scalable web applications, REST APIs, and responsive user interfaces.
+
+## 💼 Open to Work
+
+- 🚀 Looking for **Full-Time MERN Stack Developer** opportunities.
+- 📍 Gujarat, India | Open to Relocation
+- 📧 Email: **tejastandel5635@gmail.com**
 
 - 🌱 I’m currently learning **Next.js • TypeScript • Tailwind CSS**
 
