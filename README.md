@@ -23,17 +23,6 @@ MERN Stack Developer | Full Stack Developer
 
 ---
 
-## 🚀 Current Focus
-
-- 🔭 Currently working on **Learning Management System (MERN Stack)**
-- 🌱 Currently learning **Next.js, TypeScript, Docker & AWS**
-- 👯 Looking to collaborate on **Full Stack Web Development Projects**
-- 🤝 Looking for help with **System Design, Docker & AWS**
-- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Laravel, JavaScript, REST APIs, JWT Authentication, Redux Toolkit & Tailwind CSS**
-- ⚡ Fun fact: **I enjoy turning ideas into scalable full-stack web applications.**
-
----
-
 # 🚀 Featured Projects
 
 ### 🎓 Learning Management System (MERN)
@@ -54,12 +43,23 @@ https://lms-l9jxgb1va-tandel-tejas-projects.vercel.app/
 
 ---
 
-### 💈 Salon Management Dashboard
+### 💈 Salon Management System
 
-> Responsive Admin Dashboard for salon management.
+> A responsive salon management application with authentication, appointment management, and an admin dashboard.
 
-🔗 Live Demo:
+**Tech Stack**
+
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+
+🔗 **React Version:**  
 https://react-admin-saloon.vercel.app/
+
+🔗 **Next.js Version:**  
+https://saloni-next.vercel.app/
 
 ---
 
